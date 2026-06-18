@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Projects — Wakati Media',
   description:
-    'A showcase of creativity, strategy, and results — explore the projects that define Wakati Media.',
+    // 'A showcase of creativity, strategy, and results — explore the projects that define Wakati Media.',
 };
 
 const projects = [
