@@ -16,7 +16,7 @@ export default function Footer() {
                 >
                   {/* @ts-ignore */}
                   <iconify-icon icon="lucide:arrow-up-right" className="fs-7 text-primary" />
-                  wakatimedialtd@gmail.com
+                  infor@wak-ati.com
                 </a>
                 <a
                   href="mailto:infor@wak-ati.com"
@@ -34,7 +34,8 @@ export default function Footer() {
                 >
                   {/* @ts-ignore */}
                   <iconify-icon icon="lucide:map-pin" className="fs-7 text-primary" />
-                  Mukisa Mall Room 25, Ntinda-Bukoto, Kampala
+                  Valley Drive close, Ntinda-Kisasi road, Opposite Ndere Centre.
+                  P.O BOX 120573 KAMPALA GPO
                 </a>
               </div>
 
