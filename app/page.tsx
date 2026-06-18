@@ -98,8 +98,10 @@ export default function HomePage() {
                     >
                       <h2 className="mb-0">At Wakati, we bring ideas to life</h2>
                       <p className="fs-5 mb-0">
-                        When selecting a web design agency, it&apos;s essential to consider its reputation,
-                        experience, and the specific needs of your project.
+                        Customer-centric media production house built around timely storytelling.
+                        Wakati works closely with brands, organizations, and communities to understand 
+                        their vision, shape it into a compelling story, and deliver polished audio-visual 
+                        content with creativity, excellence, reliability, and speed.
                       </p>
                     </div>
                   </div>
