@@ -24,7 +24,7 @@ export default function Footer() {
                 >
                   {/* @ts-ignore */}
                   <iconify-icon icon="lucide:mail" className="fs-7 text-primary" />
-                  infor@wak-ati.com
+                  wakatimedialtd@gmail.com
                 </a>
                 <a
                   href="https://maps.google.com/?q=Mukisa+Mall+Room+25+Ntinda+Bukoto+Kampala+Uganda"
