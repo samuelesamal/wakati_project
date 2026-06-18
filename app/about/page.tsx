@@ -70,11 +70,10 @@ export default function AboutPage() {
                 <h2>Who We Are</h2>
                 <div className="d-flex flex-column gap-4 gap-lg-5" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                   <p className="mb-0 fs-5 text-dark">
-                    At Wakati Media Limited, we believe in the power of creativity, excellence, and timely
-                    delivery. &ldquo;Wakati&rdquo; means time in Kiswahili, and for us, time is the heartbeat of
-                    every project. We are a full-service media production house specialising in audio-visual
-                    storytelling. Our passion lies in creating compelling content that resonates, inspires,
-                    and delivers results — always on time, with precision, and excellence.
+                    Wakati Media Limited is a customer-centric media production house built around timely storytelling. "Wakati" means time in
+Kiswahili, and for the company, time reflects both the moments it captures and the discipline it brings to delivery. Wakati
+works closely with brands, organizations, and communities to understand their vision, shape it into a compelling story, and
+deliver polished audio-visual content with creativity, excellence, reliability, and speed.
                   </p>
                   <h2>Our Mission</h2>
                   <p className="mb-0 fs-5 text-dark">
