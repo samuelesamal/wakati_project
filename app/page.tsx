@@ -301,7 +301,7 @@ export default function HomePage() {
             >
               <div className="pricing-feature-card position-relative overflow-hidden">
                 <div className="pricing-feature-copy">
-                  <span className="pricing-feature-eyebrow">Pricing</span>
+                  <span className="pricing-feature-eyebrow"></span>
                   <h2 className="pricing-feature-title mb-0">
                     Crafting Stories
                     <br />
