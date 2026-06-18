@@ -54,8 +54,9 @@ export default function HomePage() {
                   </h1>
                   <p className="hero-description mb-0 text-white">
                     We are a full-service media production house in Uganda, crafting
-                    <br />
-                    compelling audio-visual stories with precision, creativity, and excellence.
+                    
+                    compelling audio-visual stories <br /> 
+                    with precision, creativity, and excellence.
                   </p>
                   <Link href="/contact" className="hero-cta">
                     <span className="hero-cta-label">Get In Touch</span>
