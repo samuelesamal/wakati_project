@@ -83,7 +83,7 @@ export default function HomePage() {
                 data-aos-duration="1000"
               >
                 <hr className="border-line" />
-                <span className="badge text-bg-dark">Stats &amp; facts</span>
+                {/* <span className="badge text-bg-dark">Stats &amp; facts</span> */}
               </div>
             </div>
             <div className="col-xl-8 col-xxl-7">
