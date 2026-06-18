@@ -92,9 +92,9 @@ deliver polished audio-visual content with creativity, excellence, reliability, 
             {/* Stats */}
             <div className="row gx-xl-5">
               {[
-                { target: 45, suffix: '+', title: 'Presence in global markets', desc: 'Expanding reach across international regions with localized expertise and worldwide impact.', delay: 100 },
-                { target: 15, suffix: 'M', title: 'In strategic investments', desc: 'Driving growth with curated partnerships and high-performing, audience-driven initiatives.', delay: 200 },
-                { target: 158, suffix: '+', title: 'Trusted brand collaborations', desc: 'Shaping industry conversations through innovation, creativity, and lasting influence.', delay: 300 },
+                { target: 85, suffix: '+', title: 'Product Launches in Uganda', desc: 'Expanding reach across East Africa.', delay: 100 },
+                { target: 600, suffix: '+', title: 'Projects', desc: 'Driving growth with curated partnerships and high-performing, audience-driven initiatives.', delay: 1000 },
+                { target: 200, suffix: '+', title: 'Trusted brand collaborations', desc: 'Shaping industry through creativity, and lasting influence.', delay: 300 },
               ].map((stat) => (
                 <div key={stat.title} className="col-md-6 col-lg-4 mb-8 mb-lg-0">
                   <div className="d-flex flex-column gap-7" data-aos="fade-up" data-aos-delay={stat.delay} data-aos-duration="1000">
