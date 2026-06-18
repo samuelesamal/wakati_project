@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Left: Contact Info */}
           <div className="col-xl-5 mb-8 mb-xl-0">
             <div className="d-flex flex-column gap-8 pe-xl-5">
-              <h2 className="mb-0 text-white">Build something together?</h2>
+              <h2 className="mb-0 text-white">Wakati Media Limited</h2>
               <div className="d-flex flex-column gap-2">
                 <a
                   href="mailto:wakatimedialtd@gmail.com"
